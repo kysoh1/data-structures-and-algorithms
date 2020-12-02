@@ -1,2 +1,2 @@
 # data-structures-and-algorithms
-Implementation of various data structures in Java
+The implementation was done for educational purposes in 2019.
