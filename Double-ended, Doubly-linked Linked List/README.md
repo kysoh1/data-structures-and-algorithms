@@ -3,7 +3,7 @@ linked list. The head and tail nodes keep track of the front and end nodes, each
 node in the list also stores references to previous and next nodes allowing 
 bi-directional traversal.
 
-## <ins>Methods</ins>
+### <ins>Methods</ins>
 
 ### isEmpty
 Check if the head node is null, if it is then the list is empty.
